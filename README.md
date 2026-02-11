@@ -104,6 +104,18 @@ SELECT cron.schedule(
 7.  Test API endpoints
 
 ------------------------------------------------------------------------
+<img width="5519" height="2487" alt="deepseek_mermaid_20260211_9ee234" src="https://github.com/user-attachments/assets/a2db4c44-328f-41a1-9cee-5350c88582e1" />
+
+<img width="6243" height="8613" alt="deepseek_mermaid_20260211_e84a78" src="https://github.com/user-attachments/assets/e6a57dff-e6a3-4db0-bc74-f3e3d799847e" />
+
+<img width="8245" height="3833" alt="deepseek_mermaid_20260211_d0328c" src="https://github.com/user-attachments/assets/de69b1f3-e8b1-439b-9dab-8b10b19d3d38" />
+
+<img width="6053" height="2569" alt="deepseek_mermaid_20260211_bdc3db" src="https://github.com/user-attachments/assets/487c4e86-5bd4-4ed4-97f4-70c67d6265ee" />
+
+<img width="2983" height="3187" alt="deepseek_mermaid_20260211_367833" src="https://github.com/user-attachments/assets/91d349a8-1c7a-459f-a9f8-ba73444ef7b7" />
+
+<img width="5634" height="2256" alt="deepseek_mermaid_20260211_597a7a" src="https://github.com/user-attachments/assets/e7c34d27-b189-4ac4-bdd7-8e75506eaad7" />
+
 
 ## 📄 License
 

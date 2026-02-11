@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "supabase-assignment",
+  "private_key_id": "e1ef3f9d5599779084f7cea2fb9bc5281adadbae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDExO46hwneFOCY\nvxQNIEiLIY7hXH0qMeYrgKqr8D3loMHSpO2Pq0gzyi13YNWPRspfKd3zSzSJdY5u\nov2gTz8jo/YSQgj83drg1ddhGujQamfLOhw7Zsg5PG1M2WSNaPlF/X4NThck3orP\nrIA5avS6lL+82SLSi9K6sv0pTXb0DCGr899lHBLHvJ5ZcPzQRXjFpYjy+Ebfg1gp\n525IK28kTcqHWPKBR3en/T3h/0fIOMtTS75SG6hmcF7N6TPGI0wbxinwp+AflsY9\nn056cN7o4O56n1pT8+4Smm48XACZrpiwKIT0echxqAFikC2l03W7ecuBhEKOzjZu\ndpjmTt9vAgMBAAECggEAA3SGm/x9dER4yFxCmK01pbIwwhnpQ/GdKxJjuaH97dq4\nZiyDOplokSnYFoqN9XaDkAKgmE8WKXvCkbeTxvOqFiqHSnBiaNGBSgVqdmGnyOq1\naK1cJY1IFfxoc7sCUWfDrzKLIUyuJCjMPM1SPkl3tqo6AhgfmZ1FVZ+JY0167Noc\n8CDgLOlsG3bzpFso82oinDPVF6jx95e0kydxeCqkLsXHintCtpwgXmQMQC0IO273\nd/1cK+zFYsFY38A0XozTjhKjCrK5ZwN1FJy0pPso3LqKDhL+VY1SEratxHBb8j1e\nuOwuIxYXWaxz5D61Em8BVd+16I2WuqcPsI410DXcUQKBgQD+nQz1GMUI9W0Zsj5e\nYzolb75N5WrEtz3qBIQ9ZEr0ANSB1KSMlO8K6FDdpRtLaXSH0sMHtKsZI1jhAvxC\njUBQKclZtAkNmYQXqSc6Et6JWS9+OFKGGY5x5yhqn4adQAiGsN4vlHEM42WUkWb/\nTVbCzZ2OSfcNYvEPUUTfQ6O2VQKBgQDF1z2xk0JBxYdUlD6Ewqt8owpyPtcXFPIx\n+zTIKBniqmDVUeRzCEbbD07kPJruHlgg2nzukMXHg8vZu7yZOsGXut2CyvQ46S9m\n7zBZFD1NfSPfWXgSe5uUiwW0nYRrDB6xeeJYYr3kGDmI3na/OIaJzVPKMbOhJCtK\nnSwJiUraswKBgCb4hNYy712aqxNGy/MIfwrh2p/zoG7xmSFrhY4b/rjwM5aXpIP7\n+8aQnmf+cHoPbw2m/cD9Lz8OwPjXyyKomhJrAu2e98/EEorIkj96SeN96h4IouDx\nonLerbn8Js+E0IlFIwznTJJrb83Yn4ouHTx92kLAIXdEEJ+GkeMWaEVtAoGAEbLy\n0vsQl1+7fqaQfUIJI2pWmefjSC5YiH4nt6xWvH9vkEX2QRBBfoF9FlARsDHIwo+p\nU5JiDzpMN1tjQPYPsapG/Nd5R8ocsoG9eoqj/VWvquCPLGAgiAZz6TeaTBVWfZwg\n0rVqtYgxRXxZdTvyVUuoLlOJ9WWN9evfr663op8CgYAQh3yWJjN7Js97Gaxr0rRA\neOl8k5o0iajt8+HKNO53TDLzxHuMGkbW0BCcL9/HeRANAL689b5prJPu8N9kOv4A\nrxnj3siQuheYuIzjBUKzX3FfuHztqGnmeW1XCcEzorFJ/jSyq+jKM6eMI4XaZqll\nK459zwUCUISfDC4vl0nuuw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "supabase-sheets-access@supabase-assignment.iam.gserviceaccount.com",
+  "client_id": "105978366882714870845",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/supabase-sheets-access%40supabase-assignment.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
